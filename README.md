@@ -8,3 +8,4 @@ Designed the front-end for an email client that makes calls using several API ro
 * Basic understanding and usage of **Promises** and **asynchronous** operations.
 * Building a single-page-app using pure Javascript to understand the core concepts.
 * Deeper understanding of event-listeners and their more efficient methods to implement.
+* Deeper understanding of DOM manipulation using Javascript.
