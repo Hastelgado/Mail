@@ -1,0 +1,66 @@
+textarea {
+    min-height: 400px;
+}
+
+#emails-view{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#emails-view h3{
+    width: 100%;
+}
+
+.emailinfo{
+    border: 2px solid;
+    margin: 3px;
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+}
+
+.emailbtns{
+    all:unset;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 14px;
+    width:100%;
+}
+
+
+.emailinfo span{
+    font-size: 12px;
+}
+
+#emailview{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+#emailview span{
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.archivebtns{
+    all: unset;
+    background-color: black;
+    color: aliceblue;
+    margin: 3px 10px 3px 25px;
+    padding: 3px;
+    font-size: 12px;
+ 
+}
+
+.unarchivebtns{
+    all: unset;
+    background-color: black;
+    color: aliceblue;
+    margin: 3px 10px 3px 25px;
+    padding: 3px;
+    font-size: 12px;
+}
